@@ -1,5 +1,6 @@
 # KK Tong
 
+Hello I am KK Tong. Welcome to my Github Page.
 
 ## My Games
 
