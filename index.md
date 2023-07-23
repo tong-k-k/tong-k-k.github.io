@@ -6,7 +6,7 @@ Hello I am KK Tong. Welcome to my Github Page.
 
 [Bevy-pong](https://tong-k-k.github.io/bevy-pong) ([source](https://github.com/tong-k-k/bevy-pong))
 
-[Godot TPCC](https://tong-k-k.github.io/godot-tpcc/Third Person Combat.html)
+[Godot Prototype demo](https://tong-k-k.github.io/godot-tpcc/Third Person Combat.html)
 
 ## Welcome to GitHub Pages
 
