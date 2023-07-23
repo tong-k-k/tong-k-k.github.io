@@ -4,9 +4,9 @@ Hello I am KK Tong. Welcome to my Github Page.
 
 ## My Games
 
-[Bevy-pong](https://tong-k-k.github.io/bevy-pong) ([source](https://github.com/tong-k-k/bevy-pong))
-
 [Godot 3 Third-Person Action-Adventure Game Prototype Demo](https://tong-k-k.github.io/godot-tpcc/Third Person Combat.html)
+
+[Bevy-pong](https://tong-k-k.github.io/bevy-pong) ([source](https://github.com/tong-k-k/bevy-pong))
 
 ## Welcome to GitHub Pages
 
